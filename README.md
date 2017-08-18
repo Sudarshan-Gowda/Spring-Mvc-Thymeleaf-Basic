@@ -1,4 +1,4 @@
-# spring-thymeleaf-hello-world-example
+# Spring Thymeleaf Hello-world Example
 
 * This is the Basic Thymeleaf Example to display message.
 
