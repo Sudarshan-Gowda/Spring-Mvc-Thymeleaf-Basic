@@ -2,4 +2,12 @@
 
 * This is the Basic Thymeleaf Example to display message.
 
-* To run this Application minimum Java 8, Mars eclipse is required.
+
+# Technology used:
+* Spring 4
+* ThymeLeaf 3
+* Java 8
+
+# Tool Used
+* 'Eclipse' - Mars2
+* 'Server'  - Wildfly 10
