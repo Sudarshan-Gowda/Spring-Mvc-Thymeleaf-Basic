@@ -9,5 +9,5 @@
 * Java 8
 
 # Tool Used
-* 'Eclipse' - Mars2
-* 'Server'  - Wildfly 10
+* `Eclipse` - Mars2
+* `Server`  - Wildfly 10
