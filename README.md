@@ -11,3 +11,5 @@
 # Tool Used
 * `Eclipse` - Mars2
 * `Server`  - Wildfly 10
+
+<img src="https://github.com/Sudarshan-Gowda/Spring-Mvc-Thymeleaf-Basic/blob/master/docs/picture1.png"/>
